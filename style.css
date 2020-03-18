@@ -39,9 +39,9 @@ h2 {
 .author-text {
     font-size: 22px;
     float: left;
-    margin-top: 30px;
+    margin-top: 60px;
     margin-left: 10px;
-    color:bisque;
+/*    color:bisque;*/
 }
 
 .container {
